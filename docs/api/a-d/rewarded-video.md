@@ -620,4 +620,3 @@ code|message|
 
 ### 案例参考
 - [全民董事长](https://android.myapp.com/myapp/detail.htm?apkName=com.dlt.qmdsz&info=DF3F955B42F0B77FECA41F03E7F77C8D)
-- [萌宠小凤凰](https://android.myapp.com/myapp/detail.htm?apkName=com.yexu.bird&info=F99297EC36071298FFAC45DA7BEEB8E3)
